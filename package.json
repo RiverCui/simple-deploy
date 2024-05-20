@@ -1,0 +1,15 @@
+{
+  "name": "simple-deploy",
+  "version": "1.0.0",
+  "description": "learn deploy",
+  "main": "server-fs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "author": "River",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}
